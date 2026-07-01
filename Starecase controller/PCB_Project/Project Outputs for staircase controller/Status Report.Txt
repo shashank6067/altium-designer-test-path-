@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [staircase controller.PrjPcb]
+   Generated File[staircase PCB1.TXT]
+   Generated File[staircase PCB1.LDP]
+   Generated File[staircase PCB1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:35:41 On 14-06-2025

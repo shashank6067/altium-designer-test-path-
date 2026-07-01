@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=L12 Pin=R11-2
+Removed Pin From Net: NetName=L13 Pin=R12-2
+Removed Pin From Net: NetName=L23 Pin=R22-2
+Added Pin To Net: NetName=L13 Pin=R11-2
+Added Pin To Net: NetName=L23 Pin=R12-2
+Added Pin To Net: NetName=L12 Pin=R22-2
+Added Room: Name=RP Pico

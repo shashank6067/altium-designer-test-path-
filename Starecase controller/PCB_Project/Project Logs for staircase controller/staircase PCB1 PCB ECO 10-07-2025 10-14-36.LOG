@@ -1,0 +1,398 @@
+Removed Pin From Net: NetName=NetJ2_2 Pin=J-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=J-2
+Removed Pin From Net: NetName=NetP1_1 Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=NetP2_1 Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=NetP3_1 Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=NetP5_1 Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=NetP6_1 Pin=Q5-2
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=NetP7_1 Pin=Q6-2
+Removed Pin From Net: NetName=GND Pin=Q6-3
+Removed Pin From Net: NetName=NetP8_1 Pin=Q7-2
+Removed Pin From Net: NetName=GND Pin=Q7-3
+Removed Pin From Net: NetName=NetP9_1 Pin=Q8-2
+Removed Pin From Net: NetName=GND Pin=Q8-3
+Removed Pin From Net: NetName=NetP10_1 Pin=Q9-2
+Removed Pin From Net: NetName=GND Pin=Q9-3
+Removed Pin From Net: NetName=NetP11_1 Pin=Q10-2
+Removed Pin From Net: NetName=GND Pin=Q10-3
+Removed Pin From Net: NetName=NetP13_1 Pin=Q11-2
+Removed Pin From Net: NetName=GND Pin=Q11-3
+Removed Pin From Net: NetName=NetP14_1 Pin=Q12-2
+Removed Pin From Net: NetName=GND Pin=Q12-3
+Removed Pin From Net: NetName=NetP15_1 Pin=Q13-2
+Removed Pin From Net: NetName=GND Pin=Q13-3
+Removed Pin From Net: NetName=NetP16_1 Pin=Q14-2
+Removed Pin From Net: NetName=GND Pin=Q14-3
+Removed Pin From Net: NetName=NetP17_1 Pin=Q15-2
+Removed Pin From Net: NetName=GND Pin=Q15-3
+Removed Pin From Net: NetName=NetP18_1 Pin=Q16-2
+Removed Pin From Net: NetName=GND Pin=Q16-3
+Removed Pin From Net: NetName=NetP19_1 Pin=Q17-2
+Removed Pin From Net: NetName=GND Pin=Q17-3
+Removed Pin From Net: NetName=NetP20_1 Pin=Q18-2
+Removed Pin From Net: NetName=GND Pin=Q18-3
+Removed Pin From Net: NetName=NetP21_1 Pin=Q19-2
+Removed Pin From Net: NetName=GND Pin=Q19-3
+Removed Pin From Net: NetName=NetP22_1 Pin=Q20-2
+Removed Pin From Net: NetName=GND Pin=Q20-3
+Removed Pin From Net: NetName=NetP23_1 Pin=Q21-2
+Removed Pin From Net: NetName=GND Pin=Q21-3
+Removed Pin From Net: NetName=NetP24_1 Pin=Q22-2
+Removed Pin From Net: NetName=GND Pin=Q22-3
+Removed Pin From Net: NetName=NetP12_1 Pin=Q24-2
+Removed Pin From Net: NetName=GND Pin=Q24-3
+Removed Pin From Net: NetName=NetQ11_1 Pin=R11-1
+Removed Pin From Net: NetName=NetQ12_1 Pin=R12-1
+Removed Pin From Net: NetName=NetQ13_1 Pin=R13-1
+Removed Pin From Net: NetName=NetQ14_1 Pin=R14-1
+Removed Pin From Net: NetName=NetQ15_1 Pin=R15-1
+Removed Pin From Net: NetName=NetQ16_1 Pin=R16-1
+Removed Pin From Net: NetName=NetQ17_1 Pin=R17-1
+Removed Pin From Net: NetName=NetQ18_1 Pin=R18-1
+Removed Pin From Net: NetName=NetQ19_1 Pin=R19-1
+Removed Pin From Net: NetName=NetQ20_1 Pin=R20-1
+Removed Pin From Net: NetName=NetQ21_1 Pin=R21-1
+Removed Pin From Net: NetName=NetQ22_1 Pin=R22-1
+Removed Member From Class: ClassName=RP Pico Member=Q24
+Change Component Footprint: Designator=Q1 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q2 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q3 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q4 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q5 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q6 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q7 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q8 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q9 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q10 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q11 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q12 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q13 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q14 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q15 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q16 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q17 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q18 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q19 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q20 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q21 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Footprint: Designator=Q22 Old Footprint=TO254P1016X419X2286-3 New Footprint=SOT95P260X140-3N
+Change Component Comment : Designator=Q1 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q2 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q3 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q4 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q5 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q6 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q7 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q8 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q9 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q10 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q11 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q12 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q13 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q14 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q15 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q16 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q17 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q18 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q19 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q20 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q21 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change Component Comment : Designator=Q22 Old Comment=IRLZ44N New Comment=AO3400-5.8A
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\FDXBHISZ" ("\FDXBHISZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\MMOGAXLW" ("\MMOGAXLW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\KADTPCFX" ("\KADTPCFX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\YSVGQEBY" ("\YSVGQEBY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\XFKQKOOZ" ("\XFKQKOOZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\BXEDGGSI" ("\BXEDGGSI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\UYGPFZON" ("\UYGPFZON")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\BNETEQRU" ("\BNETEQRU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\HEOIYWMC" ("\HEOIYWMC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\QVLYIPHK" ("\QVLYIPHK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q11" ("Q11"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\GXDBZNXC" ("\GXDBZNXC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q12" ("Q12"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\NMALJYXE" ("\NMALJYXE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q13" ("Q13"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\BSCSFAOC" ("\BSCSFAOC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q14" ("Q14"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\EEJJNHAF" ("\EEJJNHAF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q15" ("Q15"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\VBWCZWBB" ("\VBWCZWBB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q16" ("Q16"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\YCFEXXOP" ("\YCFEXXOP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q17" ("Q17"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\ZXSNTSTH" ("\ZXSNTSTH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q18" ("Q18"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\UUEDATBV" ("\UUEDATBV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q19" ("Q19"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\GRYKLUPB" ("\GRYKLUPB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q20" ("Q20"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\IUPXPQHB" ("\IUPXPQHB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q21" ("Q21"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\NENRUMPI" ("\NENRUMPI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q22" ("Q22"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\FOBWCWYX" ("\FOBWCWYX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q23(SOT95P260X140-3N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetP1_1 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetP2_1 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetP3_1 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetP5_1 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=NetP6_1 Pin=Q5-3
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=NetP7_1 Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=NetP8_1 Pin=Q7-3
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=NetP9_1 Pin=Q8-3
+Added Pin To Net: NetName=GND Pin=Q9-2
+Added Pin To Net: NetName=NetP10_1 Pin=Q9-3
+Added Pin To Net: NetName=GND Pin=Q10-2
+Added Pin To Net: NetName=NetP11_1 Pin=Q10-3
+Added Pin To Net: NetName=GND Pin=Q11-2
+Added Pin To Net: NetName=NetP12_1 Pin=Q11-3
+Added Pin To Net: NetName=GND Pin=Q12-2
+Added Pin To Net: NetName=NetP13_1 Pin=Q12-3
+Added Pin To Net: NetName=GND Pin=Q13-2
+Added Pin To Net: NetName=NetP14_1 Pin=Q13-3
+Added Pin To Net: NetName=GND Pin=Q14-2
+Added Pin To Net: NetName=NetP15_1 Pin=Q14-3
+Added Pin To Net: NetName=GND Pin=Q15-2
+Added Pin To Net: NetName=NetP16_1 Pin=Q15-3
+Added Pin To Net: NetName=GND Pin=Q16-2
+Added Pin To Net: NetName=NetP17_1 Pin=Q16-3
+Added Pin To Net: NetName=GND Pin=Q17-2
+Added Pin To Net: NetName=NetP18_1 Pin=Q17-3
+Added Pin To Net: NetName=GND Pin=Q18-2
+Added Pin To Net: NetName=NetP19_1 Pin=Q18-3
+Added Pin To Net: NetName=GND Pin=Q19-2
+Added Pin To Net: NetName=NetP20_1 Pin=Q19-3
+Added Pin To Net: NetName=GND Pin=Q20-2
+Added Pin To Net: NetName=NetP21_1 Pin=Q20-3
+Added Pin To Net: NetName=GND Pin=Q21-2
+Added Pin To Net: NetName=NetP22_1 Pin=Q21-3
+Added Pin To Net: NetName=GND Pin=Q22-2
+Added Pin To Net: NetName=NetP23_1 Pin=Q22-3
+Added Pin To Net: NetName=GND Pin=Q23-2
+Added Pin To Net: NetName=NetP24_1 Pin=Q23-3
+Added Pin To Net: NetName=NetQ12_1 Pin=R11-1
+Added Pin To Net: NetName=NetQ13_1 Pin=R12-1
+Added Pin To Net: NetName=NetQ14_1 Pin=R13-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R14-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R15-1
+Added Pin To Net: NetName=NetQ17_1 Pin=R16-1
+Added Pin To Net: NetName=NetQ18_1 Pin=R17-1
+Added Pin To Net: NetName=NetQ19_1 Pin=R18-1
+Added Pin To Net: NetName=NetQ20_1 Pin=R19-1
+Added Pin To Net: NetName=NetQ21_1 Pin=R20-1
+Added Pin To Net: NetName=NetQ22_1 Pin=R21-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R24-1
+Added Pin To Net: NetName=NetQ23_1 Pin=Q23-1
+Added Pin To Net: NetName=NetQ23_1 Pin=R22-1
+Added Net: Name=NetQ23_1
+Added Member To Class: ClassName=RP Pico Member=Component Q23 AO3400-5.8A
+Added Room: Name=RP Pico

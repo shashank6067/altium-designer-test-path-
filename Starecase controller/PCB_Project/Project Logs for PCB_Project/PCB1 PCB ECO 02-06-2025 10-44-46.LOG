@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=L14 Pin=U1-GP13
+Removed Pin From Net: NetName=L15 Pin=U1-GP16
+Removed Pin From Net: NetName=L16 Pin=U1-GP17
+Removed Pin From Net: NetName=L17 Pin=U1-GP18
+Removed Pin From Net: NetName=L18 Pin=U1-GP19
+Removed Pin From Net: NetName=L19 Pin=U1-GP20
+Removed Pin From Net: NetName=L20 Pin=U1-GP21
+Removed Pin From Net: NetName=L21 Pin=U1-GP22
+Removed Pin From Net: NetName=L22 Pin=U1-GP26_A0
+Added Pin To Net: NetName=L14 Pin=U1-GP16
+Added Pin To Net: NetName=L15 Pin=U1-GP17
+Added Pin To Net: NetName=L16 Pin=U1-GP18
+Added Pin To Net: NetName=L17 Pin=U1-GP19
+Added Pin To Net: NetName=L18 Pin=U1-GP20
+Added Pin To Net: NetName=L19 Pin=U1-GP21
+Added Pin To Net: NetName=L20 Pin=U1-GP22
+Added Pin To Net: NetName=L21 Pin=U1-GP26_A0
+Added Pin To Net: NetName=L22 Pin=U1-GP27_A1
+Added Room: Name=RP Pico

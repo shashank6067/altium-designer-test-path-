@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=RV Old Footprint=TRIM_PTN15-F200NB20 New Footprint=TRIM_PTN06-D02CB20
+Change Component Comment : Designator=RV Old Comment=PTN15-F200NB20 New Comment=PTN06-D02CB20
+Change component parameters: Designator = "RV" ("RV"); Footprint = "TRIM_PTN15-F200NB20"; UniqueID = "\ABMPNKDS" ("\ABMPNKDS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PTN06-D02CB20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=RP Pico

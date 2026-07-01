@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=P24-2
+Removed Pin From Net: NetName=NetC1_2 Pin=P25-2
+Removed Pin From Net: NetName=NetP4_1 Pin=Q22-3
+Removed Pin From Net: NetName=NetP4_1 Pin=Q23-3
+Removed Member From Class: ClassName=RP Pico Member=P25
+Removed Member From Class: ClassName=RP Pico Member=Q22
+Removed Member From Class: ClassName=RP Pico Member=Q23
+Removed Member From Class: ClassName=RP Pico Member=R22
+Removed Member From Class: ClassName=RP Pico Member=R23
+Change Component Footprint: Designator=P24 Old Footprint=TE_282837-2 New Footprint=TRIM_PTN15-F200NB20
+Change Component Comment : Designator=P24 Old Comment=282837-2 New Comment=PTN15-F200NB20
+Change Component Designator: OldDesignator=P24 NewDesignator=RV
+Change component parameters: Designator = "P24" ("RV"); Footprint = "TE_282837-2"; UniqueID = "\OTEQJRIN" ("\OTEQJRIN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PTN15-F200NB20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP4_1 Pin=RV-3
+Added Pin To Net: NetName=NetRV_1 Pin=RV-1
+Added Pin To Net: NetName=NetRV_1 Pin=U1-3V3
+Added Net: Name=NetRV_1
+Added Pin To Net: NetName=NetRV_2 Pin=RV-2
+Added Pin To Net: NetName=NetRV_2 Pin=U1-GP28_A2
+Added Net: Name=NetRV_2
+Added Room: Name=RP Pico
